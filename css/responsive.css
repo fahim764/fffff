@@ -1,0 +1,397 @@
+@media screen and (min-width:768px) and (max-width:991px) {
+    .left-top-bar-icon-item {
+        display: none;
+        text-align: center;
+    }
+
+    /* hero area */
+
+    .hero-area h1 {
+        font-size: 50px;
+        margin-bottom: 80px;
+    }
+
+    .hero-area h1 br {
+        display: none;
+    }
+
+    .hero-area {
+        padding: 112px 0 130px 0; 
+    }
+
+    .tour-packages-area {
+        padding: 100px 0;
+    }
+
+    .packages-area-btn a {
+        margin: 45px 0 0 0;
+    }
+
+    /* cv area */
+
+    .cv-area-content h2 br {
+        display: none;
+    }
+
+    .cv-area-content h2 {
+        font-size: 50px;
+    }
+
+    /* jobs area */
+
+    .jobs-area {
+        padding: 80px 0 60px 0;
+    }
+
+    .company-content span {
+        margin: 0 5px 0 0;
+    }
+
+    .company-btn a {
+        padding: 6px 25px;
+        margin: 0 0 23px 0;
+    }
+
+    .company-btn p {
+        margin: 0 0 0 12px;
+    }
+
+    .job-title h2 {
+        margin: 0 0 105px 0; 
+    }
+
+    /* work area */
+
+    .work-area {
+        padding: 140px 0 130px 0;
+       
+    }
+
+    .work-title h2 {
+        margin: 0 0 80px 0;
+    }
+
+    /* testimonial area */
+
+    .testimonial-area {
+        padding: 120px 0 60px 0;
+    }
+
+    .testimonial-content p:last-of-type br {
+        display: none;
+        font-size: 17px; 
+    }
+
+    /* doing-area */
+
+    .getting-job-content {
+        padding: 55px 0;
+    }
+
+    .getting-job-content h4 {
+        line-height: 27px;
+      }
+
+      .getting-job-content h4 br {
+          display: none;
+      }
+
+      .getting-job-content p br {
+          display: none;
+      }
+
+      .img-content {
+        position: absolute;
+        width: 162px;
+        height: 185px;
+        padding: 13px 0 14px 0;
+        top: 81%;
+        left: 0;
+    }
+
+    .blog-area {
+        padding: 80px 0;
+    }
+
+    .img-text {
+        width: 107px;
+        height: 87px;
+        left: 0;
+        top: 24%;
+      }
+
+      footer { 
+        padding: 100px 0 25px 0; 
+    }
+
+    .newsletter {
+        margin: 50px 0 30px 0;
+    }
+
+    .footer-text {
+        margin: 25px 0 0 0;
+    }
+    
+    footer p {
+        margin-bottom: 23px;
+      }
+
+   
+    
+    
+
+   
+
+    
+
+
+
+
+ 
+}
+
+
+
+@media screen and (max-width:767px) {
+
+    /* HERO AREA */
+
+    .hero-area {
+        padding: 50px 0 80px 0; 
+    }
+
+    .hero-area h1 {
+        font-size: 27px;
+        margin-bottom: 80px;
+    }
+
+    .hero-area h1 br {
+        display: none;
+    }
+
+    .input-area {
+        margin: 0 0 20px 0;
+    }
+
+    .find-area input {
+        font-size: 14px;
+        text-transform: capitalize;
+    }
+
+    /* TOUR PACKAGES */
+
+    .tour-packages-area {
+        padding: 70px 0;
+    }
+
+    .tour-packages-title h6 {
+        margin: 0 0 30px 0;
+    }
+
+    .tour-packages-title h2 {
+        font-size: 30px;
+        margin: 0 0 50px 0;
+    }
+
+    .packages-area-btn a {
+        margin: 40px 0 0 0;
+    }
+
+    /* CV AREA */
+    
+    .overlay-area {
+        padding: 82px 0 96px 0;  
+    }
+
+    .cv-area-content h5 {
+        margin: 0 0 25px 0;
+    }
+
+    .cv-area-content h2 {
+        font-size: 27px;
+        margin: 0 0 45px 0;
+    }
+
+    .cv-area-content h2 br {
+        display: none;
+    }
+
+    .cv-area-content a {
+        padding: 20px 25px;
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+
+    /* JOB AREA */
+
+    .jobs-area {
+        padding: 75px 0 120px 0;
+    }
+
+    .job-title h2 {
+        font-size: 30px;
+        letter-spacing: 0;
+        margin: 0 0 85px 0;
+    }
+
+    .company-content h2 {
+       margin: 31px 0 22px 0;
+    }
+
+    .company-content span {
+        margin: 0 10px 0 0;
+    }
+
+    .company-btn a {
+        margin: 50px 0 31px 0;
+      
+    }
+
+    .company-btn p {
+        margin: 0 0 0 32px;
+    }
+
+    /* Search Jobs Area */
+
+    .work-area {
+        padding: 100px 0 135px 0;
+    }
+
+    .work-title h5 {
+        font-size: 16px;
+        margin: 0 0 30px 0; 
+    }
+
+    .work-title h2 {
+        font-size: 30px;
+        margin: 0 0 83px 0;
+    }
+
+    /* TESTIMONIAL AREA  */
+
+    .testimonial-area {
+        padding: 80px 0;
+    }
+
+    .testimonial-area p:last-of-type br {
+        display: none;
+       
+    }
+
+    .testimonial-area p:last-of-type {
+        font-size: 15px;
+    }
+
+    /* DOING AREA */
+
+    .getting-job-content {
+        padding: 32px 0;
+    }
+
+    .getting-job-content h2 {
+        font-size: 22px;
+        margin-bottom: 32px;
+    }
+
+    .getting-job-content h4 br {
+        display: none;
+    }
+
+    .getting-job-content p br {
+        display: none;
+    }
+
+    
+    .img-content {
+        padding: 30px 0 40px 0;
+        top: 72%;
+        left: 0;
+        width: 172px;
+        height: 137px;
+    }
+
+    .img-content p:last-of-type {
+        font-size: 38px;
+        
+    }
+
+
+
+    /* BLOG AREA */
+
+    .blog-area {
+        padding: 70px 0;
+    }
+
+    .blog-title h4 {
+        margin: 0px 0px 20px 0;
+    }
+
+    .blog-title h2 {
+        font-size: 30px;
+        margin: 0 0 53px 0
+    }
+
+    .blog-text {
+        padding: 17px 6px;
+      }
+
+    .blog-text h2 {
+        font-size: 19px;
+    }
+
+
+
+
+
+    /* Footer AREA */
+
+    footer {
+       
+        padding: 75px 0 25px 0;
+    }
+
+    .about-us h2,
+    .contact-info h2,
+    .important-link h2,
+    .newsletter h2 {
+        margin: 55px 0 35px 0;
+    }
+
+    .footer-content{
+        margin: 60px 0 100px 0;
+    }
+
+    .footer-text {
+        margin: 23px 0 10px 0;
+    }
+
+   .copyright-left-area {
+       margin: 0 0 50px 0;
+   }
+
+   .copyright-left-side p {
+    
+    font-size: 15px;
+    line-height: 26px;
+}
+
+    .copyright-left-side a {
+        color:rgb(251, 36, 106);
+    }
+
+    .social-links {
+        margin-top: 20px ;
+
+    }
+    
+
+        
+
+    
+    
+    
+
+
+  
+}
